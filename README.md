@@ -40,6 +40,11 @@ To see all runtime options:
 python3 plot_cable_report.py --help
 ```
 
+To install the package
+```bash
+git clone https://github.com/Soumyatifr/cable_plot_package 
+```
+
 Example output:
 
 ```text
